@@ -7,4 +7,5 @@
 5. Seasonal Holidays Redux (ранее Cold Season, Holiday Season): [мод](https://drive.google.com/file/d/1U2KUHNygYSZdgYf3r1Ret0aHe2140rhJ/), [перевод](https://github.com/SieeleLushen/w3-mod-translations-rus/blob/main/modSeasonalHolidaysRedux.zip) 
 6. A Small Tribute to Essi Daven: [мод](https://www.nexusmods.com/witcher3/mods/6723), [перевод](https://github.com/SieeleLushen/w3-mod-translations-rus/blob/main/modASmallTributetoEssiDaven.zip) (для версии 3.0 EXTENDED)
 7. The Last Wish Project: [мод](https://www.thelastwishproject.com/), [перевод](https://github.com/SieeleLushen/w3-mod-translations-rus/blob/main/modtlwp.zip) (для альфа-версии)
-8. Badthing Keep Happen - Sidequest: [мод](https://www.nexusmods.com/witcher3/mods/10676), [перевод](https://github.com/SieeleLushen/w3-mod-translations-rus/blob/main/modqhdlc.zip) 
+8. Badthing Keep Happen - Sidequest: [мод](https://www.nexusmods.com/witcher3/mods/10676), [перевод](https://github.com/SieeleLushen/w3-mod-translations-rus/blob/main/modBadthingKeepHappen.zip) 
+9. New quest- Geralt's hottest swimmsuit (Otherworldly Visitor): [мод](https://www.nexusmods.com/witcher3/mods/10068),[перевод](https://github.com/SieeleLushen/w3-mod-translations-rus/blob/main/modOtherworldlyVisitor.zip)
